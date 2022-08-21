@@ -1,0 +1,15 @@
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\bin\Release\ChatBotProject.exe.config
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\bin\Release\ChatBotProject.exe
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\bin\Release\ChatBotProject.pdb
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\bin\Release\AIMLbot.dll
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\obj\Release\ChatBotProject.csproj.AssemblyReference.cache
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\obj\Release\ChatBotProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\obj\Release\ChatBotProject.bubble.resources
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\obj\Release\ChatBotProject.Form1.resources
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\obj\Release\ChatBotProject.Properties.Resources.resources
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\obj\Release\ChatBotProject.csproj.GenerateResource.cache
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\obj\Release\ChatBotProject.csproj.CoreCompileInputs.cache
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\obj\Release\ChatBotProject.csproj.CopyComplete
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\obj\Release\ChatBotProject.exe
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\obj\Release\ChatBotProject.pdb

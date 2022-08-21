@@ -1,0 +1,13 @@
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.exe.config
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.exe
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.pdb
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csproj.AssemblyReference.cache
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.bubble.resources
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.Form1.resources
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.Properties.Resources.resources
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csproj.GenerateResource.cache
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csproj.CoreCompileInputs.cache
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csproj.CopyComplete
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.exe
+C:\Users\WIN10RED\Documents\NaVAssist\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.pdb

@@ -211,5 +211,10 @@ namespace ChatBotProject
             // whenever the toggle is clicked, true is set to false visa versa.
             textToSpeech = !textToSpeech;
         }
+
+        private void bubble1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

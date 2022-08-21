@@ -22,12 +22,14 @@ namespace ChatBotProject
             if (messagetype.ToString() == "In")
             {
                 // incoming User message
-                this.BackColor = Color.Gray;
+                this.BackColor = Color.FromArgb(72, 72, 163);
+;
             }
             else
             {
                 // Outgoing Bot Message
-                this.BackColor = Color.FromArgb(0, 164, 147); 
+                //this.BackColor = Color.FromArgb(0, 164, 147); 
+                this.BackColor = Color.FromArgb(51, 51, 204);
             }
             Setheight();
         }

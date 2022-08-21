@@ -59,7 +59,7 @@ namespace ChatBotProject
             this.txtTyping.AutoSize = true;
             this.txtTyping.Location = new System.Drawing.Point(4, 451);
             this.txtTyping.Name = "txtTyping";
-            this.txtTyping.Size = new System.Drawing.Size(73, 13);
+            this.txtTyping.Size = new System.Drawing.Size(93, 13);
             this.txtTyping.TabIndex = 3;
             this.txtTyping.Text = "NavBot is typing...";
             this.txtTyping.Visible = false;
@@ -95,17 +95,17 @@ namespace ChatBotProject
             this.label1.ForeColor = System.Drawing.Color.Gold;
             this.label1.Location = new System.Drawing.Point(30, 10);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(69, 13);
+            this.label1.Size = new System.Drawing.Size(148, 24);
             this.label1.TabIndex = 1;
             this.label1.Text = "NaVAssist v0.1";
             // 
             // pictureBox1
             // 
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("indianNavyLogo")));
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(8, 8);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(16, 16);
+            this.pictureBox1.Size = new System.Drawing.Size(16, 26);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
@@ -120,7 +120,7 @@ namespace ChatBotProject
             // InputTxt
             // 
             this.InputTxt.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.InputTxt.Font = new System.Drawing.Font("Century Gothic", 9.75F);
+            this.InputTxt.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F);
             this.InputTxt.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.InputTxt.HintForeColor = System.Drawing.Color.Empty;
             this.InputTxt.HintText = "";
@@ -165,9 +165,10 @@ namespace ChatBotProject
             this.bubble1.Location = new System.Drawing.Point(9, 10);
             this.bubble1.Name = "bubble1";
             this.bubble1.Padding = new System.Windows.Forms.Padding(0, 0, 0, 5);
-            this.bubble1.Size = new System.Drawing.Size(479, 94);
+            this.bubble1.Size = new System.Drawing.Size(479, 88);
             this.bubble1.TabIndex = 3;
             this.bubble1.Visible = false;
+            this.bubble1.Load += new System.EventHandler(this.bubble1_Load);
             // 
             // panel2
             // 
@@ -199,13 +200,13 @@ namespace ChatBotProject
             this.clearChatToolStripMenuItem,
             this.toggleVoiceToolStripMenuItem});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(153, 70);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(136, 48);
             this.contextMenuStrip1.Opening += new System.ComponentModel.CancelEventHandler(this.contextMenuStrip1_Opening);
             // 
             // clearChatToolStripMenuItem
             // 
             this.clearChatToolStripMenuItem.Name = "clearChatToolStripMenuItem";
-            this.clearChatToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.clearChatToolStripMenuItem.Size = new System.Drawing.Size(135, 22);
             this.clearChatToolStripMenuItem.Text = "Clear Chat";
             this.clearChatToolStripMenuItem.Click += new System.EventHandler(this.clearChatToolStripMenuItem_Click);
             // 
@@ -213,7 +214,7 @@ namespace ChatBotProject
             // 
             this.toggleVoiceToolStripMenuItem.CheckOnClick = true;
             this.toggleVoiceToolStripMenuItem.Name = "toggleVoiceToolStripMenuItem";
-            this.toggleVoiceToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.toggleVoiceToolStripMenuItem.Size = new System.Drawing.Size(135, 22);
             this.toggleVoiceToolStripMenuItem.Text = "Voice Assist";
             this.toggleVoiceToolStripMenuItem.Click += new System.EventHandler(this.toggleVoiceToolStripMenuItem_Click);
             // 
