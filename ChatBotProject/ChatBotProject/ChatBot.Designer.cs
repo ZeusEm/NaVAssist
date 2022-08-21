@@ -1,4 +1,4 @@
-﻿namespace ChatBotProject
+namespace ChatBotProject
 {
     partial class Form1
     {
@@ -61,7 +61,7 @@
             this.txtTyping.Name = "txtTyping";
             this.txtTyping.Size = new System.Drawing.Size(73, 13);
             this.txtTyping.TabIndex = 3;
-            this.txtTyping.Text = "Bot is typing...";
+            this.txtTyping.Text = "NavBot is typing...";
             this.txtTyping.Visible = false;
             // 
             // panel1
@@ -97,7 +97,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(69, 13);
             this.label1.TabIndex = 1;
-            this.label1.Text = "ChatBot v0.2";
+            this.label1.Text = "NaVAssist v0.1";
             // 
             // pictureBox1
             // 
@@ -214,7 +214,7 @@
             this.toggleVoiceToolStripMenuItem.CheckOnClick = true;
             this.toggleVoiceToolStripMenuItem.Name = "toggleVoiceToolStripMenuItem";
             this.toggleVoiceToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.toggleVoiceToolStripMenuItem.Text = "Bot Voice";
+            this.toggleVoiceToolStripMenuItem.Text = "Voice Assist";
             this.toggleVoiceToolStripMenuItem.Click += new System.EventHandler(this.toggleVoiceToolStripMenuItem_Click);
             // 
             // Form1
